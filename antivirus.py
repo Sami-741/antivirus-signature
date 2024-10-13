@@ -16,7 +16,7 @@ import logging
 logging.basicConfig(filename='antivirus.log', level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 malicious_hashes = {}
-VIRUSTOTAL_API_KEY = 'YOUR_VIRUSTOTAL_API_KEY'
+VIRUSTOTAL_API_KEY = '69bd15ceaa1f2dc93d5680e0e7501bd7e880cac3cde6ff14f8371216790928c2'
 quarantine_folder = "quarantine"
 uploads_folder = "uploads"
 
